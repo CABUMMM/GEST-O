@@ -1,0 +1,6 @@
+{
+  "name": "CRAS Ipatinga - Gestão de Visitas",
+  "description": "Sistema de gestão, controle e relatórios de visitas domiciliares para benefícios governamentais em Ipatinga/MG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
